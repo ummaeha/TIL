@@ -57,5 +57,7 @@ This week [O]
 
 #3주차 4강~5강 (01/18/2021 - 01/24/2021)
 
-내용 정리: 
 
+=> colab & notion으로 이동 ~ 🏃‍♀️
+**google colab:** https://drive.google.com/drive/u/2/folders/1Pko07cHuUaxEYtC4zMAIwStwIBtpHGOV <br/>
+**Notion:** https://www.notion.so/ca974669acde44ca94ca01a913e4cc0d <br/>
